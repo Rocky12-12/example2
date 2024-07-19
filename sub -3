@@ -23,3 +23,5 @@ class ComplexNumber {
     // we will implement  this function for addition
     public complex add(ComplexNumber, ComplexNumber);
 }
+
+code out put is 
